@@ -3866,10 +3866,6 @@ static int iw_get_mode(struct net_device *dev,
     return ret;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> upstream/cm-13.0
 static int __iw_softap_stopbss(struct net_device *dev,
                              struct iw_request_info *info,
                              union iwreq_data *wrqu,
